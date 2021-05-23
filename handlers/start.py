@@ -23,7 +23,7 @@ List of Supported Streaming Platforms Given Below:
             [
                 [
                     InlineKeyboardButton(
-                        "Contact My Master", url="t.me/Softfreakz",
+                        "🎵Music Bot Commands🎵", url="https://telegra.ph/Softfreakz-Music-Bot-Commands-05-23",
                     )
                 ],
                 [
